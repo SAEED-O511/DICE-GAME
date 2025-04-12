@@ -1,6 +1,3 @@
-Here's a **README** file that you can use for your dice game on GitHub. It explains the game's functionality, setup, and other relevant details.
-
----
 
 # Dice Game
 
