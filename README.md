@@ -35,6 +35,10 @@ This is a simple two-player dice game built using HTML, CSS, and JavaScript. The
 
 ## Installation
 
+To run this game online:
+use this link => https://saeed-o511.github.io/DICE-GAME/
+
+or
 To run this game locally, follow these steps:
 
 1. Clone the repository to your local machine:
